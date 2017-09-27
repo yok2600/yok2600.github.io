@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meeting in Yokohama"
-date: 2017-09-27
+date: 2017-09-26
 ---
 
 # Meeting in Yokohama
